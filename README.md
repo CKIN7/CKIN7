@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Ulises Cova<sub style="font-size: 15px; font-style: italic"></sub><br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ulises-cova/)</b>
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Ulises Cova<sub style="font-size: 15px; font-style: italic"></sub><br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ulises-cova/)</b>
 
 ⚡Experienced in top-tier technologies across Front-End and Back-End, I deliver high-quality solutions that prioritize usability and user experience.<br>
 
